@@ -1,0 +1,10 @@
+[user]
+        name = gunnsoo
+        email = snssns4971@gmail.com
+[alias]
+	st = status
+	br = branch
+	brd = branch -d
+	co = checkout
+	cob = checkout -b
+	ci = commit
