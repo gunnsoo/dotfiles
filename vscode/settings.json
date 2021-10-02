@@ -30,5 +30,8 @@
     },
     "materialTheme.accent": "Breaking Bad",
     "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDragAndDrop": false
 }
