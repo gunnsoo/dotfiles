@@ -5,3 +5,5 @@ fpath=(~/.zsh $fpath)
 autoload -Uz compinit && compinit
 
 export PATH=$PATH:~/libs/flutter/bin
+
+alias python='/usr/local/bin/python3'
