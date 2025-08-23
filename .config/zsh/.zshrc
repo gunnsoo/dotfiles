@@ -6,7 +6,6 @@ autoload -Uz compinit && compinit
 
 export PATH=$PATH:~/libs/flutter/bin
 
-alias python='/usr/local/bin/python3'
 alias pip='/usr/local/bin/pip3'
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
